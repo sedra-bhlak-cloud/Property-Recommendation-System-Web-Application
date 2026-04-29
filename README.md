@@ -8,16 +8,16 @@ The system provides a user-friendly interface where users can browse featured pr
 
 * 🏠 Browse featured and recommended properties
 * 📊 Property ranking system based on scores
-* 👤 User profile management
+* 👤 User profile managmetn
 * 🔍 View detailed property information
 * 🔐 User authentication (login/logout system)
 
 ## 🛠️ Technologies Used
 
-* Frontend: HTML, CSS
+* Frontend: HTML, CSS, Java Script
 * Backend: PHP
 * Server: Apache (XAMPP)
-* Database: (MySQL if you used one — add it if yes)
+* Database: JSON
 
 ## 🎯 Purpose
 
@@ -25,7 +25,7 @@ This project aims to simplify the process of finding properties by providing int
 
 ## 🚀 Future Improvements
 
-* Advanced filtering (price, location, size)
-* AI-based recommendation system
+* Advanced filtering (price, location, Rating)
+*Adding property to favourites
 * Responsive mobile design
 * Integration with real estate APIs
